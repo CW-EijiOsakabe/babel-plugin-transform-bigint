@@ -443,7 +443,7 @@ module.exports = function (babel) {
   const JSBI = 'JSBI';
   const maybeJSBI = 'maybeJSBI';
   //const maybeJSBI = JSBI;
-  const IMPORT_PATH = './jsbi.mjs';
+  const IMPORT_PATH = 'jsbi';
 
   const maybeJSBICode = `
 
